@@ -1,0 +1,14 @@
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckSystemSecurity.exe.config
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckSystemSecurity.exe
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckSystemSecurity.pdb
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckTheConnectedPID.dll
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckTheConnectedPID.pdb
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\SystemSecurityUtil.csprojResolveAssemblyReference.cache
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.ProcessUtility.resources
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.Properties.Resources.resources
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\SystemSecurityUtil.csproj.GenerateResource.Cache
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.exe
+C:\SystemSecurity\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.pdb
+C:\Preetam\Github\Security\SystemSecurityUtil\SystemSecurityUtil\bin\Debug\CheckSystemSecurity.exe.config
+C:\Preetam\Github\Security\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.exe
+C:\Preetam\Github\Security\SystemSecurityUtil\SystemSecurityUtil\obj\Debug\CheckSystemSecurity.pdb

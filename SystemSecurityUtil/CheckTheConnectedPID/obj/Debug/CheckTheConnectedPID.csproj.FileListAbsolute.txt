@@ -1,0 +1,5 @@
+C:\SystemSecurity\SystemSecurityUtil\CheckTheConnectedPID\bin\Debug\CheckTheConnectedPID.dll
+C:\SystemSecurity\SystemSecurityUtil\CheckTheConnectedPID\bin\Debug\CheckTheConnectedPID.pdb
+C:\SystemSecurity\SystemSecurityUtil\CheckTheConnectedPID\obj\Debug\CheckTheConnectedPID.csprojResolveAssemblyReference.cache
+C:\SystemSecurity\SystemSecurityUtil\CheckTheConnectedPID\obj\Debug\CheckTheConnectedPID.dll
+C:\SystemSecurity\SystemSecurityUtil\CheckTheConnectedPID\obj\Debug\CheckTheConnectedPID.pdb

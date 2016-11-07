@@ -1,0 +1,1 @@
+C:\SystemSecurity\CheckSystemSecurity\CheckSystemSecurity\bin\Debug\CheckSystemSecurity.exe.config
